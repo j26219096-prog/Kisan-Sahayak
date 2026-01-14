@@ -74,6 +74,6 @@ In rural India, many farmers face two major challenges:
 
 ---
 
-### 👨‍💻 Team: Agri-Minds
-* **Leader:** Jawahar R (Dhanalakshmi Srinivasan Engineering College)
+### 👨‍💻 GIT username: j26219096-prog
+* **Name:** Jawahar R (Dhanalakshmi Srinivasan Engineering College)
 * **Focus:** AI & Data Science
