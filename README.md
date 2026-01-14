@@ -32,7 +32,7 @@ In rural India, many farmers face two major challenges:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YourUsername/Kisan-Sahayak.git](https://github.com/YourUsername/Kisan-Sahayak.git)
+    git clone [https://github.com/YourUsername/Kisan-Sahayak.git](https://github.com/j26219096-prog/Kisan-Sahayak.git)
     cd Kisan-Sahayak
     ```
 
