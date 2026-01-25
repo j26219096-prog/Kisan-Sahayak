@@ -2,7 +2,7 @@
 Kisan-Sahayak : A Python-based AI tool that helps rural farmers access real-time crop market prices and expert advice in their local language (Tamil/Hindi) using NLP translation. Built for the 'AI For Bharat' Hackathon 2026.
 # 🌾 Kisan-Sahayak (Farmer's Helper)
 
-> **Empowering Rural India with AI-Driven Agricultural Insights** > *Submitted for "AI For Bharat" Hackathon 2026*
+> **Empowering Rural India with AI-Driven Agricultural Insights** > *Submitted for "AI For Bharat" Hackathon 2026"
 
 ## 💡 Problem Statement
 In rural India, many farmers face two major challenges:
